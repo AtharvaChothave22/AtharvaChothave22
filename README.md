@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AtharvaChothave22
-- 👀 I’m interested in Software Technology
-- 🌱 I’m currently learning Web based technology 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web based technology 
+- 🌱 I’m currently learning PG-DAC Course 
 - 📫 How to reach me ...
 
 <!---
